@@ -2,16 +2,16 @@
 
 Install a virtual environment 
 
-`python3 -m venv env
+`python3 -m venv env`
 
 Activate the Venv
-source env/bin/activate
+`source env/bin/activate`
 
 Install packages
 
-pip install pyautogui
-pip install PyPDF2
+`pip install pyautogui`
+`pip install PyPDF2`
 
 Run the script
 
-python3 spam_bot.py
+`python3 spam_bot.py`
