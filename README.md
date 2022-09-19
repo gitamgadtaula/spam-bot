@@ -1,6 +1,6 @@
 # spam-bot
 
-Install a virtual environment 
+Create a virtual environment 
 
 `python3 -m venv env`
 
