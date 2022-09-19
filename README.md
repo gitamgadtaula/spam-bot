@@ -2,7 +2,7 @@
 
 Install a virtual environment 
 
-python3 -m venv env
+`python3 -m venv env
 
 Activate the Venv
 source env/bin/activate
